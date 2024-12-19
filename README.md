@@ -32,3 +32,6 @@ tagId,x,y,z,timestamp
 1,12.5,34.7,0,1684251456
 2,14.2,36.3,0,1684251460
 3,10.9,33.8,0,1684251464
+
+<img width="1175" alt="Screenshot 2024-12-18 at 7 56 26 PM" src="https://github.com/user-attachments/assets/abd11383-df2b-486f-85ef-c03215103c57" />
+
