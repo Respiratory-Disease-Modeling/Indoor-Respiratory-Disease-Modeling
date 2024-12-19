@@ -4,6 +4,13 @@ This repository provides a Python package designed for the analysis and simulati
 
 This package is an essential tool for researchers, healthcare professionals, and policymakers aiming to understand and mitigate the spread of respiratory diseases in indoor settings.
 
+This repository provides the code implementation for the analyses and simulations described in our journal article. Please refer to the article for detailed explanations of the methodology, data requirements, and interpretations.
+
+Reference
+
+For complete details on the research and implementation, please cite or refer to our journal article:
+[Author Names, “Article Title,” Journal Name, Year, DOI/Link]
+
 ## Key Features
 
 - **Transmission Rate Calculation**: Models the probability of disease spread based on contact intensity and proximity.
