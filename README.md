@@ -28,7 +28,7 @@ The package requires movement data in a CSV file format. This data is critical f
 
 ### Example Input Data
 ```csv
-tagId,x,y,z,timestamp,date,time,color,type
-1,12.5,34.7,0,1684251456,2024-06-01,12:30:56,blue,doctor
-2,14.2,36.3,0,1684251460,2024-06-01,12:31:00,red,nurse
-3,10.9,33.8,0,1684251464,2024-06-01,12:31:04,green,equipment
+tagId,x,y,z,timestamp
+1,12.5,34.7,0,1684251456
+2,14.2,36.3,0,1684251460
+3,10.9,33.8,0,1684251464
