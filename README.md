@@ -14,7 +14,7 @@ This package is an essential tool for researchers, healthcare professionals, and
 
 ## Input Data
 
-The package requires movement data in a CSV file format. This data is critical for modeling transmission rates and simulating the basic reproduction number ($R_0$ ). The input data should have the following columns:
+The package requires movement data in a CSV file format. This data is critical for modeling transmission rates and simulating the basic reproduction number ($R_0$ ). The data format, regardless of the RTLS device used, should be structured as tagId, x, y, z, timestamp, date, time as follows:
 
 ### Required Fields
 | Column Name     | Description                                                                 |
