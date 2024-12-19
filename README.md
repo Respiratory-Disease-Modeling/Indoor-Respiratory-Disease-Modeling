@@ -6,7 +6,7 @@ This package is an essential tool for researchers, healthcare professionals, and
 
 This repository provides the code implementation for the analyses and simulations described in our journal article. Please refer to the article for detailed explanations of the methodology, data requirements, and interpretations.
 
-Reference
+**Reference**
 
 For complete details on the research and implementation, please cite to our journal article:
 [Author Names, “Article Title,” Journal Name, Year, DOI/Link]
