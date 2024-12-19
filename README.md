@@ -4,7 +4,7 @@ This repository provides a Python package designed for the analysis and simulati
 
 This package is an essential tool for researchers, healthcare professionals, and policymakers aiming to understand and mitigate the spread of respiratory diseases in indoor settings.
 
-**Implementation of Analyses Described in the Journal**
+**Interpretation of Analyses Described in the Journal**
 
 This repository provides the code implementation for the analyses and simulations described in our journal article. Please refer to the article for detailed explanations of the methodology, data requirements, and interpretations.
 
