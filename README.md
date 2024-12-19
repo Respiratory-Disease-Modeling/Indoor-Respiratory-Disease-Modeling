@@ -81,7 +81,7 @@ Ensure you have the following installed before running the project:
      ```
 
 2. **Choose Your Desired Plots/Results**  
-   - The package offers **19 kinds of plots/results**, referred to as "parts."
+   - The package offers **19 kinds of plots/results**, referred to as "parts." Please refer next section for detailed information about avaiable parts.
    - Uncomment the line corresponding to the part you want to generate in the `driver.py` file. 
    - Example:
      ```python
@@ -104,3 +104,26 @@ Ensure you have the following installed before running the project:
      - Plots: Saved as `.pdf` files.
      - Results: Saved as `.csv` files.
 
+# Available Parts and Their Functions
+
+| **Part** | **Description**                                                             |
+|----------|-----------------------------------------------------------------------------|
+| Part 1   | Generate pre-processed data                                                |
+| Part 2   | Data analysis                                                              |
+| Part 3   | Plotting anchors                                                           |
+| Part 4   | Plotting individual tags                                                   |
+| Part 5   | Plot individual tag trajectories with respect to anchors                   |
+| Part 6   | Plot tag pair trajectories                                                 |
+| Part 7   | Plot all tags trajectories                                                 |
+| Part 8   | Plot all tags trajectory points                                            |
+| Part 9   | Contact duration                                                           |
+| Part 10  | Contact intensity                                                          |
+| Part 11  | Plot contact density                                                       |
+| Part 12  | Distance matrices                                                          |
+| Part 13  | Tag pair distances                                                         |
+| Part 14  | Contact tracing network for longer duration                                |
+| Part 15  | Contact tracing network (5-second duration)                                |
+| Part 16  | Contact tracing network for each individual tag                            |
+| Part 17  | Individual transmission rates for various diseases                         |
+| Part 18  | Individual transmission rates for COVID-19                                 |
+| Part 19  | Simulation of R₀ 
