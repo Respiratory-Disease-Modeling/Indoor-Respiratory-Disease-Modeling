@@ -124,6 +124,6 @@ Ensure you have the following installed before running the project:
 | Part 14  | Contact tracing network for longer duration                                |
 | Part 15  | Contact tracing network (5-second duration)                                |
 | Part 16  | Contact tracing network for each individual tag                            |
-| Part 17  | Individual transmission rates for various diseases                         |
+| Part 17  | Individual transmission rates for various respiratory diseases             |
 | Part 18  | Individual transmission rates for COVID-19                                 |
 | Part 19  | Simulation of basic reproduction numbers ($R_0$)
