@@ -1,8 +1,10 @@
 # Indoor Respiratory Disease Transmission Modeling and Analysis
 
-This repository provides a Python package designed for the analysis and simulation of respiratory disease transmission in indoor environments. Using real-time movement data collected via UWB RTLS devices, the package calculates individual transmission rates ($\beta$) and basic reproduction numbers ($R_0$ ). By retrofitting disease-specific probability functions, it offers a comprehensive framework for studying disease spread in various high-risk indoor settings. 
+This repository provides a Python package designed for the analysis and simulation of respiratory disease transmission in indoor environments. Using real-time movement data collected via UWB RTLS devices, the package perfoms the set of contact analytics (contact tracing, contact intensity, contact density) and then calculates the individual transmission rates ($\beta$) and basic reproduction numbers ($R_0$ ). By retrofitting disease-specific probability functions, it offers a comprehensive framework for studying disease spread in various high-risk indoor settings. 
 
 This package is an essential tool for researchers, healthcare professionals, and policymakers aiming to understand and mitigate the spread of respiratory diseases in indoor settings.
+
+**Implementation of Analyses Described in the Journal**
 
 This repository provides the code implementation for the analyses and simulations described in our journal article. Please refer to the article for detailed explanations of the methodology, data requirements, and interpretations.
 
