@@ -35,3 +35,17 @@ tagId,x,y,z,timestamp,date,time
 2,14.2,36.3,0,1684251460,2024-06-01,12:31:00
 3,10.9,33.8,0,1684251464,2024-06-01,12:31:04
 
+# Data Analysis and Visualization with Python
+
+This project uses Python for data manipulation, visualization, and network analysis. The required libraries and tools are listed below.
+
+### Pre-requisites
+
+Ensure you have the following installed before running the project:
+
+- **Python**: Version 3.7 or higher
+- **Required Python Libraries**:
+  Install the necessary libraries by running:
+  ```bash
+  pip install pandas numpy matplotlib seaborn networkx
+
