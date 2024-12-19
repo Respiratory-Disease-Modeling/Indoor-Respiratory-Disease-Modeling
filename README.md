@@ -71,3 +71,36 @@ Ensure you have the following installed before running the project:
 - `matplotlib.cm`: To handle color maps for visualizations.
 - `matplotlib.backends.backend_pdf`: To export visualizations to PDF files.
 
+## How to Use the Package
+
+1. **Provide Your Data**  
+   - Open the `driver.py` file in your project directory.
+   - On **line 19**, specify the file path to your CSV data file:
+     ```python
+     input_file_path = "path/to/your/file.csv"
+     ```
+
+2. **Choose Your Desired Plots/Results**  
+   - The package offers **19 kinds of plots/results**, referred to as "parts."
+   - Uncomment the line corresponding to the part you want to generate in the `driver.py` file. 
+   - Example:
+     ```python
+     # Uncomment the desired part to run
+     # Part 1
+     # Part 2
+     ```
+
+   > **Note:** Some parts may depend on the results of previous parts. Ensure to run those prerequisite parts before running the desired one.
+
+3. **Run the Script**  
+   - Save the changes in the `driver.py` file.
+   - Execute the script in your terminal:
+     ```bash
+     python3 driver.py
+     ```
+
+4. **Access the Results**  
+   - Once the script completes execution, you can find the generated **plots** and **results** in the `outputs` directory:
+     - Plots: Saved as `.pdf` files.
+     - Results: Saved as `.csv` files.
+
