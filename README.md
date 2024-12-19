@@ -50,14 +50,14 @@ Ensure you have the following installed before running the project:
   ```bash
   pip install pandas numpy matplotlib seaborn networkx
 
-Imported Libraries and Their Purpose
-	•	pandas: For data manipulation and analysis.
-	•	numpy: For numerical computations.
-	•	os and sys: To handle file paths and system-level operations.
-	•	seaborn: For statistical data visualization.
-	•	matplotlib.pyplot: For creating plots and visualizations.
-	•	networkx: For graph and network analysis.
-	•	datetime: To manage date and time-related data.
-	•	matplotlib.cm: To handle color maps for visualizations.
-	•	matplotlib.backends.backend_pdf: To export visualizations to PDF files.
+**Imported Libraries and Their Purpose**
+- pandas: For data manipulation and analysis.
+- numpy: For numerical computations.
+- os and sys: To handle file paths and system-level operations.
+- seaborn: For statistical data visualization.
+- matplotlib.pyplot: For creating plots and visualizations.
+- networkx: For graph and network analysis.
+- datetime: To manage date and time-related data.
+- matplotlib.cm: To handle color maps for visualizations.
+- matplotlib.backends.backend_pdf: To export visualizations to PDF files.
 
