@@ -8,7 +8,7 @@ This repository provides the code implementation for the analyses and simulation
 
 Reference
 
-For complete details on the research and implementation, please cite or refer to our journal article:
+For complete details on the research and implementation, please cite to our journal article:
 [Author Names, “Article Title,” Journal Name, Year, DOI/Link]
 
 ## Key Features
