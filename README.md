@@ -1,20 +1,20 @@
 # Indoor Respiratory Disease Transmission Modeling and Analysis
 
-This repository provides a Python package designed for the analysis and simulation of respiratory disease transmission in indoor environments. Using real-time movement data collected via UWB RTLS devices, the package calculates individual transmission rates and basic reproduction numbers (R₀). By retrofitting disease-specific probability functions, it offers a comprehensive framework for studying disease spread in various high-risk indoor settings. 
+This repository provides a Python package designed for the analysis and simulation of respiratory disease transmission in indoor environments. Using real-time movement data collected via UWB RTLS devices, the package calculates individual transmission rates ($\beta$) and basic reproduction numbers ($R_0$ ). By retrofitting disease-specific probability functions, it offers a comprehensive framework for studying disease spread in various high-risk indoor settings. 
 
 This package is an essential tool for researchers, healthcare professionals, and policymakers aiming to understand and mitigate the spread of respiratory diseases in indoor settings.
 
 ## Key Features
 
 - **Transmission Rate Calculation**: Models the probability of disease spread based on contact intensity and proximity.
-- **R₀ Simulation**: Estimates the basic reproduction number for different indoor environments.
+- **$R_0$  Simulation**: Estimates the basic reproduction number for different indoor environments.
 - **Customizable Parameters**: Includes options to simulate interventions like mask use and ventilation adjustments.
 - **Data Integration**: Works with real-time movement data to create accurate and dynamic simulations.
 - **Visualizations**: Generates detailed insights, including contact networks and transmission heatmaps.
 
 ## Input Data
 
-The package requires movement data in a CSV file format. This data is critical for modeling transmission rates and simulating the basic reproduction number (R₀). The input data should have the following columns:
+The package requires movement data in a CSV file format. This data is critical for modeling transmission rates and simulating the basic reproduction number ($R_0$ ). The input data should have the following columns:
 
 ### Required Fields
 | Column Name     | Description                                                                 |
