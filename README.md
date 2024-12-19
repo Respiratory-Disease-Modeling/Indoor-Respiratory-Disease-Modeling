@@ -10,16 +10,16 @@ This repository provides the code implementation for the analyses and simulation
 
 **Reference**
 
-For complete details on the research and implementation, please cite to our journal article:
+For complete details on the research and implementation, please cite to our journal article: ***Currently, the journal is under peer review. Once it is published and publicly available, we will update the DOI/link**
 [Author Names, “Article Title,” Journal Name, Year, DOI/Link]
 
 ## Key Features
 
 - **Transmission Rate Calculation**: Models the probability of disease spread based on contact intensity and proximity.
-- **$R_0$  Simulation**: Estimates the basic reproduction number for different indoor environments.
-- **Customizable Parameters**: Includes options to simulate interventions like mask use and ventilation adjustments.
+- **$R_0$  Simulation**: Estimates the basic reproduction number for different respiratory diseases in indoor environments.
+- **Customizable Parameters**: Includes options to simulate interventions like mask use and social distancing threshold adjustments.
 - **Data Integration**: Works with real-time movement data to create accurate and dynamic simulations.
-- **Visualizations**: Generates detailed insights, including contact networks and transmission heatmaps.
+- **Visualizations**: Generates detailed insights, including contact tracing and transmission dynamics.
 
 ## Input Data
 
