@@ -10,7 +10,7 @@ This repository provides the code implementation for the analyses and simulation
 
 **Reference**
 
-For complete details on the research and implementation, please cite to our journal article: ***Currently, the journal is under peer review. Once it is published and publicly available, we will update the DOI/link**
+For complete details on the research and implementation, please cite to our journal article: **Currently, the journal is under peer review. Once it is published and publicly available, we will update the DOI/link**
 
 [Author Names, “Article Title,” Journal Name, Year, DOI/Link]
 
