@@ -7,7 +7,7 @@ This package is an essential tool for researchers, healthcare professionals, and
 ## Key Features
 
 - **Transmission Rate Calculation**: Models the probability of disease spread based on contact intensity and proximity.
-- **R₀ Simulation**: Estimates the basic reproduction number for different indoor environments.
+- **$R_0$ Simulation**: Estimates the basic reproduction number for different indoor environments.
 - **Customizable Parameters**: Includes options to simulate interventions like mask use and ventilation adjustments.
 - **Data Integration**: Works with real-time movement data to create accurate and dynamic simulations.
 - **Visualizations**: Generates detailed insights, including contact networks and transmission heatmaps.
@@ -33,5 +33,4 @@ tagId,x,y,z,timestamp
 2,14.2,36.3,0,1684251460
 3,10.9,33.8,0,1684251464
 
-<img width="1175" alt="Screenshot 2024-12-18 at 7 56 26 PM" src="https://github.com/user-attachments/assets/abd11383-df2b-486f-85ef-c03215103c57" />
 
