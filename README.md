@@ -12,9 +12,3 @@ This package is an essential tool for researchers, healthcare professionals, and
 - **Data Integration**: Works with real-time movement data to create accurate and dynamic simulations.
 - **Visualizations**: Generates detailed insights, including contact networks and transmission heatmaps.
 
-## Installation
-
-To install the package, run:
-
-```bash
-pip install <package-name>
